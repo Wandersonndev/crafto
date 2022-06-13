@@ -1,0 +1,12 @@
+body{
+    background:#211B15;
+}
+.redes{
+    background-color: white;
+    width: 300px;
+    border-radius:5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
